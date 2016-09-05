@@ -1,0 +1,22 @@
+{
+  "name": "nova-iterm",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "nova-colors": "^1.0.7"
+  },
+  "description": "Nova color scheme plugin for iTerm",
+  "homepage": "https://trevordmiller.github.io/nova-docs",
+  "author": "Trevor D. Miller <trevordmiller@icloud.com> (http://www.trevordmiller.com)",
+  "license": "MIT",
+  "keywords": [
+    "iterm",
+    "iterm-theme",
+    "color-scheme",
+    "colors"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevordmiller/nova-iterm.git"
+  }
+}
