@@ -1,8 +1,12 @@
 {
   "name": "nova-iterm",
   "version": "1.0.0",
-  "scripts": {},
+  "scripts": {
+    "build": "node ./index.js > nova.itermcolors"
+  },
   "dependencies": {
+    "handlebars": "^4.0.5",
+    "hex-rgb": "^1.0.0",
     "nova-colors": "^1.0.7"
   },
   "description": "Nova color scheme plugin for iTerm",
