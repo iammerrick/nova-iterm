@@ -1,6 +1,6 @@
 {
   "name": "nova-iterm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "build": "node ./index.js > nova.itermcolors"
   },
