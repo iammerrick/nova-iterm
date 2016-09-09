@@ -216,11 +216,11 @@
       <key>Color Space</key>
       <string>sRGB</string>
       <key>Blue Component</key>
-      <real>0.17254901960784313</real>
+      <real>0.792156862745098</real>
       <key>Green Component</key>
-      <real>0.15294117647058825</real>
+      <real>0.7568627450980392</real>
       <key>Red Component</key>
-      <real>0.11764705882352941</real>
+      <real>0.4980392156862745</real>
     </dict>
     <key>Cursor Guide Color</key>
     <dict>
